@@ -8,4 +8,5 @@ Integrantes:
 -Boris Morales Ríos
 -Jorge Barrios Cuadrado
 -Mirko Silva Castro
+-Sebastian Sanhueza Riquelme
 >>>>>>> origin/master
