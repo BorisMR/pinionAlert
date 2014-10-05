@@ -9,4 +9,5 @@ Integrantes:
 -Jorge Barrios Cuadrado
 -Mirko Silva Castro
 -Sebastian Sanhueza Riquelme
+-Gabriel Ruiz Manquimilla
 >>>>>>> origin/master
