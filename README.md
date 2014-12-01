@@ -1,7 +1,7 @@
-﻿pinionAlert
+﻿SmogOFF
 ===========
 
-Projecto de desarrollo de una aplicacion de información de macrozonas para el ramo Taller de Aplicaciones para Moviles.
+Projecto de desarrollo de una aplicacion de información de macrozonas de restricción, ubicaciones importantes y ciclovias, para el ramo Taller de Aplicaciones Moviles.
 
 =======
 Integrantes:
@@ -10,4 +10,3 @@ Integrantes:
 -Mirko Silva Castro
 -Sebastian Sanhueza Riquelme
 -Gabriel Ruiz Manquimilla
->>>>>>> origin/master

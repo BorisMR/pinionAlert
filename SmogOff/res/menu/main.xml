@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.tallerdam.smogoff.MainActivity" >
+
+    <item android:id="@+id/menu_vista"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Cambiar Vista"/>
+    
+    <item android:id="@+id/menu_macro"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Ver Macrozonas"/>
+    
+    <item android:id="@+id/menu_centrar"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Centrar"/>  
+    
+    <item android:id="@+id/menu_verdes"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Areas Verdes"/>
+    
+    <item android:id="@+id/menu_ciclobias" 
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Ciclobias"></item>
+    
+    <item android:id="@+id/menu_cerrar"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Cerrar Aplicación"/>
+    
+    
+
+</menu>
